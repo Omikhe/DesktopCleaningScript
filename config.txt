@@ -1,3 +1,7 @@
+REM Navigate to the desktop directory
+C:
+cd "%userprofile%\Desktop"
+
 ::Documents
 move *.pdf* "%userprofile%\Documents"  
 move *.docx* "%userprofile%\Documents" 
