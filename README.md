@@ -34,4 +34,3 @@ Contributions to this script are welcome! If you encounter any issues or have su
 
 ## License
 
-This script is released under the [MIT License](LICENSE).
